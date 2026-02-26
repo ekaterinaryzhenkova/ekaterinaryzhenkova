@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I'm Ekaterina 👋
 
-<!--
-**ekaterinaryzhenkova/ekaterinaryzhenkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer building scalable systems with .NET.
 
-Here are some ideas to get you started:
+🧠 About Me
+    - C# / .NET Backend Developer
+    - Designing and implementing REST APIs
+    - Working with asynchronous inter-service communication
+    - Applying SOLID principles and Clean Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+    **Backend**
+    - C#, .NET 5 - 9, ASP.NET Core
+    - REST API, gRPC
+    - SOLID, OOP
+    - Entity Framework Core, Dapper
+    - MS SQL
+    **Messaging & Caching**
+    - RabbitMQ, MassTransit
+    - Redis
+    **DevOps**
+    - Docker
+    - GitLab CI, GitHub Actions
+    **Testing**
+    - Unit Testing
+
+🚀 Currently
+    - Completing my studies in the specialty "Applied Informatics in Arts and Humanities"
+    - Deepening knowledge in distributed systems
+    - Practicing algorithms & data structures
+
+📫 How to reach me:
+    - Telegram: @imunellka3000, @vadivazi_jj
+    - Email: vadivazikryzh@gmail.com
